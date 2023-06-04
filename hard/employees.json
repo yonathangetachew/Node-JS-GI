@@ -1,0 +1,65 @@
+{
+    "employees": [
+      {
+        "employeeID": 1,
+        "name": "Sasuke Uchiha",
+        "salary": 81000,
+        "department": "IT"
+      },
+      {
+        "employeeID": 2,
+        "name": "Roronoa Zoro",
+        "salary": 82000,
+        "department": "Marketing"
+      },
+      {
+        "employeeID": 3,
+        "name": "Vinsmoke Sanji",
+        "salary": 87000,
+        "department": "Management"
+      },
+      {
+        "employeeID": 4,
+        "name": "Kakashi Hatake",
+        "salary": 78000,
+        "department": "Support"
+      },
+      {
+        "employeeID": 5,
+        "name": "Killua Zoldyck",
+        "salary": 70000,
+        "department": "Data"
+      },
+      {
+        "employeeID": 6,
+        "name": "Rimuru Tempest",
+        "salary": 100000,
+        "department": "HR"
+      },
+      {
+        "employeeID": 7,
+        "name": "Kyojuro Rengoku",
+        "salary": 77000,
+        "department": "Marketing"
+      },
+      {
+        "employeeID": 8,
+        "name": "Thorfinn Karlsefni",
+        "salary": 72000,
+        "department": "Data"
+      },
+      {
+        "employeeID": 9,
+        "name": "Vegeta",
+        "salary": 120000,
+        "department": "HR"
+      },
+      {
+        "employeeID": 10,
+        "name": "Trunks",
+        "salary": 75000,
+        "department": "Management"
+      }
+    ]
+  }
+  
